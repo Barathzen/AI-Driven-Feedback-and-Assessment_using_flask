@@ -1,0 +1,4 @@
+download and extract your model here("in this folder")
+using the below link
+
+https://alphacephei.com/vosk/models#:~:text=Accurate%20generic%20US%20English%20model%20trained%20by%20Kaldi%20on%20Gigaspeech.
